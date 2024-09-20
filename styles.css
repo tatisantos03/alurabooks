@@ -1,6 +1,7 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
+@import url("styles/topicos.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
@@ -17,4 +18,3 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
-
